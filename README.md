@@ -1,3 +1,6 @@
+###george
+##Bekiaris
+*analyst*
 - 👋 Hi, I’m @gkbekiar
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning R
